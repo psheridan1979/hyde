@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's Jekyll?
+title: PlaceHolder1
 featured: true
 ---
 

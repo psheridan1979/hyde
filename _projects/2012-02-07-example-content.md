@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Example content
+title: PlaceHolder2
 featured: true
 ---
 

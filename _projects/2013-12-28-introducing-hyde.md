@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introducing Hyde
+title: PlaceHolder3
 featured: false
 ---
 
