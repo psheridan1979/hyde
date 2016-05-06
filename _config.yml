@@ -4,23 +4,40 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            'Paul Sheridan'
+tagline:          ''
+description:      'Engineer, Veteran, Tinkerer, Father of Two Delightful Little Girls'
+url:              http://www.paulmsheridan.com/
 baseurl:          /
 
 author:
+  name:           'Paul Sheridan'
+  url:            http://www.paulmsheridan.com/
+
+credit:
   name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  url:            https://github.com/poole/hyde
 
 paginate:         5
+
+collections:
+  - projects
+
 
 # Custom vars
 version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+  profile:        https://github.com/psheridan1979
+linkedin:         https://www.linkedin.com/in/paulmatthewsheridan
+email:            paul.m.sheridan@gmail.com
+
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
