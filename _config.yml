@@ -24,7 +24,8 @@ credit:
 paginate:         5
 
 collections:
-  - projects
+  projects:
+    output: true
 
 
 # Custom vars
